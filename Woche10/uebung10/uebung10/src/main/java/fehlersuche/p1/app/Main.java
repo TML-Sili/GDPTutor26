@@ -1,6 +1,7 @@
 package fehlersuche.p1.app;
 
-
+// Entfernen Sie /* und */, um dieses Programm zu testen und zu korrigieren.
+/*
 import fehlersuche.p1.modell.Konto;
 
 public class Main {
@@ -9,3 +10,4 @@ public class Main {
         System.out.println("Saldo: " + k.getSaldo());
     }
 }
+*/

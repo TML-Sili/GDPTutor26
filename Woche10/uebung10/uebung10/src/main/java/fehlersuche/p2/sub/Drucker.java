@@ -1,11 +1,12 @@
 package fehlersuche.p2.sub;
 
-
+// Entfernen Sie /* und */, um dieses Programm zu testen und zu korrigieren.
+/*
 import fehlersuche.p2.basis.Geraet;
 
 public class Drucker extends Geraet {
     @Override
-    public void starten() {
+    void starten() {
         System.out.println("Drucker startet");
     }
 
@@ -14,3 +15,4 @@ public class Drucker extends Geraet {
         g.starten();
     }
 }
+*/

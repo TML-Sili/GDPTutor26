@@ -1,7 +1,8 @@
 package fehlersuche.p1.modell;
 
-
-public class Konto {
+// Entfernen Sie /* und */, um dieses Programm zu testen und zu korrigieren.
+/*
+class Konto {
     private double saldo;
 
     public Konto(double saldo) {
@@ -12,3 +13,4 @@ public class Konto {
         return saldo;
     }
 }
+*/
